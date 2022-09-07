@@ -15,5 +15,4 @@
 go.mod里有运行环境
 
 效果图：
-
-![](D:\GO1\goproject\src\github.com\mikuLuka\todolist\image.png)
+![image](https://user-images.githubusercontent.com/109407543/188946012-c412ec3d-baae-4c7d-b96e-ff297cc4777d.png)
