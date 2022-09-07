@@ -1,0 +1,27 @@
+.el-table .warning-row {
+    background: #CBE6CE
+}
+
+.el-table .success-row {
+    text-decoration: line-through
+}
+
+.el-footer, .el-header {
+    background-color: #A9F0AF;
+
+    color: #fff;
+    text-align: center;
+    line-height: 60px
+}
+
+.el-footer {
+    background-color: #C0EDE4;
+    display: block;
+    width: 100%;
+    position: fixed;
+    bottom: 0
+}
+
+body {
+    margin: 0
+}
